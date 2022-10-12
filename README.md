@@ -14,10 +14,7 @@ You can refer to my YouTube video to see a working tutorial for better understan
 
 To write a simple virus, we will use the following modules.
 
-import os
-import datetime
-import pathlib
-import time
+os, datetime, pathlib, time
 
 ### os module
 
