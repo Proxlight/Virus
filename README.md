@@ -44,4 +44,4 @@ Link to our Dribbble page : https://dribbble.com/Proxlight
 
 Follow us on Twitter : https://twitter.com/Proxlight1
 
-© 2022 Proxlight, Inc. All rights reserved.
+#### © 2022 Proxlight, Inc. All rights reserved.
